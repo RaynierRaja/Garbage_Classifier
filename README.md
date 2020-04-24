@@ -6,8 +6,8 @@ The training is done in the **google colab**
 Dataset : [**Trashnet**](https://github.com/garythung/trashnet)  
 Validation Accuracy : **80.10**  
 
-##TODO  
+## TODO  
 Test the Tflite Model in Raspberry Pi  
 
-###Acknowledgement  
+### Acknowledgement  
 Code Help : [**Create Tensorflow Image Classification Model with Your Own Dataset in Google Colab**](https://medium.com/analytics-vidhya/create-tensorflow-image-classification-model-with-your-own-dataset-in-google-colab-63e9d7853a3e)
